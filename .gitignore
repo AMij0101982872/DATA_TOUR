@@ -1,0 +1,13 @@
+# Fichiers trop lourds pour GitHub (> 100 MB)
+train.csv
+test.csv
+
+# Fichiers temporaires
+catboost_info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
